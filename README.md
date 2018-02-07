@@ -36,7 +36,7 @@ $ composer require basce/simplepackage
 ## Usage
 
 ``` php
-$skeleton = new basce\simplepackage();
+$skeleton = new basce\simplepackage\SkeletonClass();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 
